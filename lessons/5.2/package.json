@@ -1,13 +1,12 @@
 {
   "name": "5.2",
   "version": "1.0.0",
-  "description": "",
+  "description": "Using Node.js MongoDB driver, you will learn to create a basic Node.js application to display information from recipe Documents in MongoDB.",
   "main": "1-test.js",
   "dependencies": {
     "core-util-is": "^1.0.2",
-    "mongodb": "^3.5.9"
+    "mongodb": "^3.7.3"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
